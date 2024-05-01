@@ -1,4 +1,4 @@
-name: Do a Duolingo lesson
+name: Get Duolingo XPs for my account
 
 on:
   workflow_dispatch:

@@ -6,7 +6,7 @@ on:
       lessons:
         default: 10
         description: 'Number of lessons to be completed'
-        required: false
+        required: true
         type: number
 
 jobs:

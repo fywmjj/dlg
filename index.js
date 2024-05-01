@@ -118,9 +118,9 @@ try {
 		xp += response.xpGain;
 	}
 
-	console.log(`🎉 You won ${xp} XP`);
+	console.log(`🎉 成功: 获得了 ${xp} 经验`);
 } catch (error) {
-	console.log("❌ Something went wrong");
+	console.log("❌ 发生了一些错误。");
 	if (error instanceof Error) {
 		console.log(error.message);
 	}

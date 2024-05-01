@@ -1,4 +1,4 @@
-name: Get Duolingo XPs for my account
+name: Get Duolingo XPs for my account (Manual)
 
 on:
   workflow_dispatch:

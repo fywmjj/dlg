@@ -2,8 +2,7 @@
 
 [![维持我的Duolingo连胜](https://github.com/fywmjj/dlg/actions/workflows/streak-keeper.yml/badge.svg?branch=main)](https://github.com/fywmjj/dlg/actions/workflows/streak-keeper.yml)
 
-:important:
-本仓库不是原版仓库，要Fork，请到[此处](https://github.com/rfoel/duolingo/fork)克隆原版Duolingo仓库。
+:important:本仓库不是原版仓库，要Fork，请到[此处](https://github.com/rfoel/duolingo/fork)克隆原版Duolingo仓库。
 
 <img src="duo.svg" width="128px"/>
 
